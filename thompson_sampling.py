@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  9 09:22:04 2019
-
-@author: juangabriel
-"""
-
 # Muestreo Thompson
 
 # Importar las librerías
